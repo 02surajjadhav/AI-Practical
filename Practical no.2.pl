@@ -7,7 +7,7 @@ likes(aryan,drama).
 likes(ranjit,horror).
 
 movie(saiyaara,romantic).
-movie(charly777,emotional).
+movie(charlie777,emotional).
 movie(kgf,action).
 movie(boys,comedy).
 movie(dhamal,drama).
